@@ -1,0 +1,74 @@
+{
+    "colors": {
+        "background": [
+            33,
+            33,
+            33
+        ],
+        "grid_line": [
+            66,
+            66,
+            66
+        ],
+        "cell_closed": [
+            66,
+            66,
+            66
+        ],
+        "cell_opened": [
+            224,
+            224,
+            224
+        ],
+        "cell_hover": [
+            97,
+            97,
+            97
+        ],
+        "text": [
+            33,
+            33,
+            33
+        ],
+        "mine": [
+            211,
+            47,
+            47
+        ],
+        "flag": [
+            25,
+            118,
+            210
+        ],
+        "ui_panel": [
+            50,
+            50,
+            50
+        ],
+        "ui_text": [
+            255,
+            255,
+            255
+        ],
+        "ui_button": [
+            66,
+            66,
+            66
+        ],
+        "ui_button_hover": [
+            97,
+            97,
+            97
+        ]
+    },
+    "fonts": {
+        "main": "Impact",
+        "size_small": 20,
+        "size_medium": 28,
+        "size_large": 56
+    },
+    "layout": {
+        "cell_size": 32,
+        "margin": 2
+    }
+}
